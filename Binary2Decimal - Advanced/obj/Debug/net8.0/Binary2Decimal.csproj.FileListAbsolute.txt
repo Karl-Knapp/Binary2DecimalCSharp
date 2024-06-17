@@ -1,0 +1,28 @@
+D:\Programming\Learning\C# dotnet\Projects Folder\Binary2Decimal\bin\Debug\net8.0\Binary2Decimal.exe
+D:\Programming\Learning\C# dotnet\Projects Folder\Binary2Decimal\bin\Debug\net8.0\Binary2Decimal.deps.json
+D:\Programming\Learning\C# dotnet\Projects Folder\Binary2Decimal\bin\Debug\net8.0\Binary2Decimal.runtimeconfig.json
+D:\Programming\Learning\C# dotnet\Projects Folder\Binary2Decimal\bin\Debug\net8.0\Binary2Decimal.dll
+D:\Programming\Learning\C# dotnet\Projects Folder\Binary2Decimal\bin\Debug\net8.0\Binary2Decimal.pdb
+D:\Programming\Learning\C# dotnet\Projects Folder\Binary2Decimal\obj\Debug\net8.0\Binary2Decimal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Learning\C# dotnet\Projects Folder\Binary2Decimal\obj\Debug\net8.0\Binary2Decimal.AssemblyInfoInputs.cache
+D:\Programming\Learning\C# dotnet\Projects Folder\Binary2Decimal\obj\Debug\net8.0\Binary2Decimal.AssemblyInfo.cs
+D:\Programming\Learning\C# dotnet\Projects Folder\Binary2Decimal\obj\Debug\net8.0\Binary2Decimal.csproj.CoreCompileInputs.cache
+D:\Programming\Learning\C# dotnet\Projects Folder\Binary2Decimal\obj\Debug\net8.0\Binary2Decimal.dll
+D:\Programming\Learning\C# dotnet\Projects Folder\Binary2Decimal\obj\Debug\net8.0\refint\Binary2Decimal.dll
+D:\Programming\Learning\C# dotnet\Projects Folder\Binary2Decimal\obj\Debug\net8.0\Binary2Decimal.pdb
+D:\Programming\Learning\C# dotnet\Projects Folder\Binary2Decimal\obj\Debug\net8.0\Binary2Decimal.genruntimeconfig.cache
+D:\Programming\Learning\C# dotnet\Projects Folder\Binary2Decimal\obj\Debug\net8.0\ref\Binary2Decimal.dll
+D:\Programming\Learning\C# dotnet\Florin Projects Folder\Binary2Decimal\Binary2Decimal - Advanced\bin\Debug\net8.0\Binary2Decimal.exe
+D:\Programming\Learning\C# dotnet\Florin Projects Folder\Binary2Decimal\Binary2Decimal - Advanced\bin\Debug\net8.0\Binary2Decimal.deps.json
+D:\Programming\Learning\C# dotnet\Florin Projects Folder\Binary2Decimal\Binary2Decimal - Advanced\bin\Debug\net8.0\Binary2Decimal.runtimeconfig.json
+D:\Programming\Learning\C# dotnet\Florin Projects Folder\Binary2Decimal\Binary2Decimal - Advanced\bin\Debug\net8.0\Binary2Decimal.dll
+D:\Programming\Learning\C# dotnet\Florin Projects Folder\Binary2Decimal\Binary2Decimal - Advanced\bin\Debug\net8.0\Binary2Decimal.pdb
+D:\Programming\Learning\C# dotnet\Florin Projects Folder\Binary2Decimal\Binary2Decimal - Advanced\obj\Debug\net8.0\Binary2Decimal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Learning\C# dotnet\Florin Projects Folder\Binary2Decimal\Binary2Decimal - Advanced\obj\Debug\net8.0\Binary2Decimal.AssemblyInfoInputs.cache
+D:\Programming\Learning\C# dotnet\Florin Projects Folder\Binary2Decimal\Binary2Decimal - Advanced\obj\Debug\net8.0\Binary2Decimal.AssemblyInfo.cs
+D:\Programming\Learning\C# dotnet\Florin Projects Folder\Binary2Decimal\Binary2Decimal - Advanced\obj\Debug\net8.0\Binary2Decimal.csproj.CoreCompileInputs.cache
+D:\Programming\Learning\C# dotnet\Florin Projects Folder\Binary2Decimal\Binary2Decimal - Advanced\obj\Debug\net8.0\Binary2Decimal.dll
+D:\Programming\Learning\C# dotnet\Florin Projects Folder\Binary2Decimal\Binary2Decimal - Advanced\obj\Debug\net8.0\refint\Binary2Decimal.dll
+D:\Programming\Learning\C# dotnet\Florin Projects Folder\Binary2Decimal\Binary2Decimal - Advanced\obj\Debug\net8.0\Binary2Decimal.pdb
+D:\Programming\Learning\C# dotnet\Florin Projects Folder\Binary2Decimal\Binary2Decimal - Advanced\obj\Debug\net8.0\Binary2Decimal.genruntimeconfig.cache
+D:\Programming\Learning\C# dotnet\Florin Projects Folder\Binary2Decimal\Binary2Decimal - Advanced\obj\Debug\net8.0\ref\Binary2Decimal.dll
